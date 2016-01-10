@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Een visualisatie voor Turbozen
-datePublished: '2016-01-10T13:16:42.428Z'
-dateModified: '2016-01-10T13:16:37.160Z'
+datePublished: '2016-01-10T13:20:00.880Z'
+dateModified: '2016-01-10T13:19:55.752Z'
 title: Holiday Inn
 author: []
 sourcePath: _posts/2016-01-10-holiday-inn.md
