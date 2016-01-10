@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Around 3D]]></title>
+        <description><![CDATA[Around 3D]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 11:29:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Holiday Inn]]></title>
+            <description><![CDATA[<article><h1>Holiday Inn</h1><p>Dit hotel aan de engelse kustlijn was sterk verouderd. Turbozen architecten kregen daarvoor de opdracht om het een nieuw gevoel te geven. Premium materialen en bovenal sfeer. Het waaw gevoel geven aan de bezoekers was een van de uitgangspunten van dit project.</p></article>]]></description>
+            <link>undefinedholiday-inn/index.html</link>
+            <guid isPermaLink="false">4499e2fe-3793-49e4-a377-f53be8fa5de8</guid>
+            <pubDate>Sun, 10 Jan 2016 11:29:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
