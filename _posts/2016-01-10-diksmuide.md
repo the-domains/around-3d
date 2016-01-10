@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Visualisatie voor Recon
-datePublished: '2016-01-10T17:10:51.213Z'
-dateModified: '2016-01-10T17:10:48.050Z'
+datePublished: '2016-01-10T17:12:24.667Z'
+dateModified: '2016-01-10T17:12:22.738Z'
 title: Diksmuide
 author: []
 sourcePath: _posts/2016-01-10-diksmuide.md
