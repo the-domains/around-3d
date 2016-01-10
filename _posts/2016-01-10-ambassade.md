@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Visualisatie voor Lifetree
-datePublished: '2016-01-10T13:24:51.883Z'
-dateModified: '2016-01-10T13:24:20.522Z'
+datePublished: '2016-01-10T13:25:31.856Z'
+dateModified: '2016-01-10T13:25:26.487Z'
 title: Ambassade
 author: []
+sourcePath: _posts/2016-01-10-ambassade.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-ambassade.md
-published: true
 url: ambassade/index.html
 _type: Article
 
