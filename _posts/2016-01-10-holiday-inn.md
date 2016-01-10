@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Een visualisatie voor Turbozen
-datePublished: '2016-01-10T13:22:32.297Z'
-dateModified: '2016-01-10T13:22:15.495Z'
+datePublished: '2016-01-10T13:36:39.245Z'
+dateModified: '2016-01-10T13:36:36.106Z'
 title: Holiday Inn
 author: []
 sourcePath: _posts/2016-01-10-holiday-inn.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: holiday-inn/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/463533228d3bc91524026111b3b3c8d2e0064646.jpg)
