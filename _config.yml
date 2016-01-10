@@ -1,6 +1,6 @@
 name: Around 3D
 favicon: null
-layout_spectrum: 0.30884
+layout_spectrum: 0.52799
 typography_spectrum: 0.16969
 title: Around Media 3D
 cta:
@@ -22,7 +22,7 @@ color:
     - '#008080'
     - '#005555'
     - '#00aaaa'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.875
   saturation: 1
   rhythmicContrast: 0.5
