@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Visualisatie voor Mevaco
-datePublished: '2016-01-10T13:33:47.397Z'
-dateModified: '2016-01-10T13:33:31.304Z'
+datePublished: '2016-01-10T13:34:43.856Z'
+dateModified: '2016-01-10T13:34:40.817Z'
 title: Delvauxstraat
 author: []
+sourcePath: _posts/2016-01-10-delvauxstraat.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-delvauxstraat.md
-published: true
-url: delvauxstraat/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f606003d-f365-407a-b81c-04a565f7ee48.jpg)
