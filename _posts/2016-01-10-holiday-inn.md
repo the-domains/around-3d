@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Een visualisatie voor Turbozen
-datePublished: '2016-01-10T13:20:00.880Z'
-dateModified: '2016-01-10T13:19:55.752Z'
+datePublished: '2016-01-10T13:22:32.297Z'
+dateModified: '2016-01-10T13:22:15.495Z'
 title: Holiday Inn
 author: []
 sourcePath: _posts/2016-01-10-holiday-inn.md
@@ -22,8 +22,9 @@ url: holiday-inn/index.html
 _type: Article
 
 ---
-# Holiday Inn
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/463533228d3bc91524026111b3b3c8d2e0064646.jpg)
+
+# Holiday Inn
 
 Dit hotel aan de engelse kustlijn was sterk verouderd. Turbozen architecten kregen daarvoor de opdracht om het een nieuw gevoel te geven. Premium materialen en bovenal sfeer. Het waaw gevoel geven aan de bezoekers was een van de uitgangspunten van dit project.
 
