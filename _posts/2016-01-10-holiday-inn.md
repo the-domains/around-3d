@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Een visualisatie voor Turbozen
-datePublished: '2016-01-10T17:11:16.867Z'
-dateModified: '2016-01-10T17:11:10.106Z'
+datePublished: '2016-01-10T17:12:16.229Z'
+dateModified: '2016-01-10T17:12:12.499Z'
 title: Holiday Inn
 author: []
 sourcePath: _posts/2016-01-10-holiday-inn.md
