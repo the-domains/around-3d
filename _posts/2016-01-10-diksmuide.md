@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Visualisatie voor Recon
-datePublished: '2016-01-10T17:00:44.565Z'
-dateModified: '2016-01-10T17:00:34.021Z'
+datePublished: '2016-01-10T17:03:03.134Z'
+dateModified: '2016-01-10T17:03:00.658Z'
 title: Diksmuide
 author: []
+sourcePath: _posts/2016-01-10-diksmuide.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-diksmuide.md
-published: true
 url: diksmuide/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46bd2e50-eab9-4852-9614-129f4275b708.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ede26218c5c0f0d9e956708cc8e6e20102b1a6d.jpg)
 
 # Diksmuide
 
