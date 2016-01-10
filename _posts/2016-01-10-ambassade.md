@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Visualisatie voor Lifetree
-datePublished: '2016-01-10T13:28:19.770Z'
-dateModified: '2016-01-10T13:28:16.930Z'
+datePublished: '2016-01-10T13:35:28.009Z'
+dateModified: '2016-01-10T13:34:58.894Z'
 title: Ambassade
 author: []
 sourcePath: _posts/2016-01-10-ambassade.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: ambassade/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c98ea71c-4d05-4d59-88df-52aa68ef9207.jpg)
